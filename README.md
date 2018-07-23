@@ -6,7 +6,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
    * [Grover's Algorithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#grovers-algorithm)
      * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation)
    * [Shor's Alogrithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#shors-algorithm)
-     * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-1)
+     * [Implementation - specific factorization](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-1)
    * [Other Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#other-algorithms)
 3. [Feedback](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#feedback)
 
@@ -328,7 +328,7 @@ and checks whether P divides N. In the worst case, this would take time roughly 
 
 The detailed explanation and steps of Shor's Algorithm can be found [here](https://blogs.ams.org/mathgradblog/2014/04/30/shors-algorithm-breaking-rsa-encryption/).
 
-#### Implementation
+#### Implementation - specific factorization
 Let us factorize the number 91 as illustrated in the AMS blog above.  Below is the Quantum Circuit and QASM code to implement 62mod91:
 
 <p align="center">
