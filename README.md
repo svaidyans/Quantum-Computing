@@ -770,7 +770,7 @@ Output from executing this on the local Simulator using QISKIT SDK is:
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
 <p align="center">
-  <img src="images/Cartoon.jpg" width="480" height="180"></img>
+  <img src="images/Cartoon.jpg" width="300" height="100"></img>
 </p>
 
 [Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
