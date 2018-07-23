@@ -6,7 +6,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
    * [Grover's Algorithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#grovers-algorithm)
      * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation)
    * [Shor's Alogrithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#shors-algorithm)
-     * [Implementation - specific factorization](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-1)
+     * [Implementation - specific factorization](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation---specific-factorization)
    * [Other Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#other-algorithms)
 3. [Feedback](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#feedback)
 
