@@ -762,7 +762,7 @@ else:
 
 Output from executing this on the local Simulator using QISKIT SDK is:
 <p align="center">
-  <img src="images/Shors-Generalized-Local-Output.png" width="600" height="120"></img>
+  <img src="images/Shors-Generalized-Local-Output.png" width="600" height="240"></img>
 </p>
 
 [Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
