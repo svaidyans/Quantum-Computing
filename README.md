@@ -4,7 +4,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 1. [What is Quantum Computing](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#what-is-quantum-computing)
 2. [Implementation of few Quantum Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-of-few-quantum-algorithms)
    * [Grover's Algorithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#grovers-algorithm)
-     * [Implementation](https://github.com/svaidyansQuantum-Computing/blob/master/README.md#implementation)
+     * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation)
    * [Shor's Alogrithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#shors-algorithm)
      * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-1)
    * [Other Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#other-algorithms)
@@ -34,7 +34,7 @@ Check out this excellent introductory YoutTube video:
   </a>
 </p>
 
-[Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
+[Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
 
 ## Implementation of few Quantum Algorithms
 Before we start off examining few Quantum Algorithms, a brief about the state of Quantum Computers.  As mentioned before, several Fortune 50 companies including IBM, Microsoft, Google are all working on creating Quantum Computers.  IBM has created a public cloud platform called [IBM Quantum Experience or IBM QX](https://en.wikipedia.org/wiki/IBM_Q_Experience).  As of July 2018, this has five Quantum Processors (with three of them available to public) as well as a Quantum Simulator:
@@ -88,7 +88,7 @@ The steps of GA are as follows:
 
 For those of you mathematically inclined, the original Grover's paper is available [here](https://arxiv.org/pdf/quant-ph/9605043.pdf).
 
-[Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
+[Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
 
 #### Implementation
 Let us try implementing GA with 3 qubits (8 combinations) and as ω as |111>.  To recall, GA is represented as:
@@ -318,7 +318,7 @@ Output from executing this on the local Simulator using QISKIT SDK is:
 
 Voila!  We have successfully implemented Grover's Algorithm both on the IBM QX platform as well as on the local Simulator.
 
-[Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
+[Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
 
 ### Shor's Algorithm
 Although any integer number has a unique decomposition into a product of primes, finding the prime factors is believed to be a hard problem. In fact, the security of our online transactions rests on the assumption that factoring integers with a thousand or more digits is practically impossible. This assumption has been challenged in 1995 when Peter Shor proposed a polynomial-time quantum algorithm for the factoring problem. Shor’s algorithm is arguably the most dramatic example of how the paradigm of quantum computing changed our perception of which problems should be considered tractable. In this section we briefly summarize some basic facts about factoring, highlight main ingredients of the Shor’s algorithm, and illustrate how it works using a factoring problem.
@@ -483,7 +483,7 @@ Output from executing this on the local Simulator using QISKIT SDK is:
   <img src="images/Shors-Local-Output.png" width="600" height="120"></img>
 </p>
 
-[Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
+[Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
 
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
@@ -491,7 +491,7 @@ Output from executing this on the local Simulator using QISKIT SDK is:
   <img src="images/Cartoon.jpg" width="480" height="180"></img>
 </p>
 
-[Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
+[Goto Top](https://github.com/svaidyans/Quantum-Computing#quantum-computing)
 
 ## Feedback
 Please share any feedback to [Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
