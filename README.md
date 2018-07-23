@@ -1,14 +1,14 @@
 # Quantum-Computing
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at it its background and implementation of few Quantum Algorithms.
-1. [What is Quantum Computing](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#what-is-quantum-computing)
-2. [Implementation of few Quantum Algorithms](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#implementation-of-few-quantum-algorithms)
-   * [Grover's Algorithm](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#grovers-algorithm)
-     * [Implementation](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#implementation)
-   * [Shor's Alogrithm](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#shors-algorithm)
-     * [Implementation](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#implementation-1)
-   * [Other Algorithms](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#other-algorithms)
-3. [Feedback](https://github.dxc.com/vsivasubram3/Quantum-Computing/blob/master/README.md#feedback)
+1. [What is Quantum Computing](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#what-is-quantum-computing)
+2. [Implementation of few Quantum Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-of-few-quantum-algorithms)
+   * [Grover's Algorithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#grovers-algorithm)
+     * [Implementation](https://github.com/svaidyansQuantum-Computing/blob/master/README.md#implementation)
+   * [Shor's Alogrithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#shors-algorithm)
+     * [Implementation](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-1)
+   * [Other Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#other-algorithms)
+3. [Feedback](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#feedback)
 
 ## What is Quantum Computing?
 
@@ -494,4 +494,4 @@ Output from executing this on the local Simulator using QISKIT SDK is:
 [Goto Top](https://github.dxc.com/vsivasubram3/Quantum-Computing#quantum-computing)
 
 ## Feedback
-Please share any feedback to [Vaidyanathan Sivasubramanian](mailto:vsivasubram3@csc.com).
+Please share any feedback to [Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
