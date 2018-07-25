@@ -1,4 +1,4 @@
-# Name: Shors_Generalized.py
+# Name: Shors.py
 # Version: v1
 # Description: Shors algorithm implementation for finding one factor 
 #              on a 5 qubit local simulator
