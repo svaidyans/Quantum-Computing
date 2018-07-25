@@ -490,7 +490,7 @@ Output from executing this on the local Simulator using QISKIT SDK is:
 Below is a Python code which implements Shor's Algorithm generalized for any number > 14 and less than 33 digits long:
 
 ```
-# Name: Shors_Generalized.py
+# Name: Shors.py
 # Version: v1
 # Description: Shors algorithm implementation for finding one factor 
 #              on a 5 qubit local simulator
