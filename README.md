@@ -1,6 +1,6 @@
 # Quantum-Computing
 
-Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at it its background and implementation of few Quantum Algorithms.
+Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 1. [What is Quantum Computing?](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#what-is-quantum-computing)
 2. [Implementation of few Quantum Algorithms](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#implementation-of-few-quantum-algorithms)
    * [Grover's Algorithm](https://github.com/svaidyans/Quantum-Computing/blob/master/README.md#grovers-algorithm)
