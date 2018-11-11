@@ -8,6 +8,8 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
    * [Shor's Alogrithm](#shors-algorithm)
      * [Implementation - specific factorization](#implementation---specific-factorization)
      * [Implementation - generalized](#implementation---generalized)
+   * [Molecule Simulation](#molecule-simulation)
+   * [Video](#video)
    * [Other Algorithms](#other-algorithms)
 3. [Feedback](#feedback)
 
@@ -766,6 +768,20 @@ Output from executing this on the local Simulator using QISKIT SDK is:
 </p>
 
 [Goto Top](#quantum-computing)
+
+### Molecule Simulation
+Chemical reactions are quantum in nature, because they form highly entangled quantum superposition states. While the energies of molecular hydrogen can be computed classically (albeit inefficiently), working out the energy of something like a propane (C3H8) molecule would take a classical supercomputer in the region of 10 days.
+
+Molecular simulation has enormous potential in chemistry with benefits ranging from better solar cells to medicines.
+
+With Micorosoft's Quantum Development Kit ([QDK](https://www.microsoft.com/en-us/quantum/development-kit)) and a combination of Q# and C#, the energy levels at different bond lengths of a Hydrogen and Lithium Hydride molecule are simulated.  Estimates of the ground state energy which are a function of bond distance are computed using the quantum phase estimation algorithm, using Hamiltonian simulation by a Trotter-Suzuki integrator.  
+
+The GitHub repository for Hydrogen and Lithium Hydrid simulations are availabe respectively [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Samples/src/H2SimulationGUI), and [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Chemistry/LithiumHydrideGUI).
+
+[Goto Top](#quantum-computing)
+
+### Video
+A short video of the implementations of the above algorithms is available [here](https://youtu.be/c47eI3ZcE2Q).
 
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
