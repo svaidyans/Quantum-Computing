@@ -2,7 +2,7 @@
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 1. [What is Quantum Computing?](#what-is-quantum-computing)
-2. [Implementation of few Quantum Algorithms](#implementation-of-few-quantum-algorithms)
+2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
    * [Grover's Algorithm](#grovers-algorithm)
      * [Implementation](#implementation)
    * [Shor's Alogrithm](#shors-algorithm)
@@ -21,7 +21,13 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 
 We have all heard the buzz around Quantum Computers.  Today’s smartphones have the computing power of a military computer from 50 years ago that was the size of an entire room. However, even with the phenomenal strides we have made in technology and classical computers since the onset of the computer revolution, there remain problems that classical computers just can’t solve.  Even though a classical computer helps us do many amazing things, “under the hood” it’s really just a calculator that uses a sequence of bits—values of 0 and 1 to represent two states (think on and off switch) to makes sense of and decisions about the data we input following a prearranged set of instructions. 
 
-Quantum Computers are not intended to replace classical computers, they are expected to be a different tool we will use to solve complex problems that are beyond the capabilities of a classical computer.  When you enter the world of atomic and subatomic particles, things begin to behave in unexpected ways. In fact, these particles can exist in more than one state at a time. It’s this ability that Quantum Computers take advantage of.  Instead of bits, which conventional computers use, a Quantum Computer uses Quantum bits—known as Qubits. To illustrate the difference, imagine a sphere. A bit can be at either of the two poles of the sphere, but a Qubit can exist at any point on the sphere (called "Superposition"). So, this means that a computer using Qubits can store an enormous amount of information and uses less energy doing so than a classical computer. Another interesting aspect is called "Quantum Entanglement".  It is a physical phenomenon which occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole.  Measurements of physical properties such as position, momentum, spin, and polarization, performed on entangled particles are found to be correlated. 
+Quantum Computers are not intended to replace classical computers, they are expected to be a different tool we will use to solve complex problems that are beyond the capabilities of a classical computer:
+
+<p align="center">
+  <img src="images/P-NP%20problem%20set.png" height="200" width="400"></img>
+</p>
+
+When you enter the world of atomic and subatomic particles, things begin to behave in unexpected ways. In fact, these particles can exist in more than one state at a time. It’s this ability that Quantum Computers take advantage of.  Instead of bits, which conventional computers use, a Quantum Computer uses Quantum bits—known as Qubits. To illustrate the difference, imagine a sphere. A bit can be at either of the two poles of the sphere, but a Qubit can exist at any point on the sphere (called "Superposition"). So, this means that a computer using Qubits can store an enormous amount of information and uses less energy doing so than a classical computer. Another interesting aspect is called "Quantum Entanglement".  It is a physical phenomenon which occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole.  Measurements of physical properties such as position, momentum, spin, and polarization, performed on entangled particles are found to be correlated. 
 
 <p align="center">
   <img src="images/Bloch Sphere.jpg" height="250" width="300"></img>
@@ -39,7 +45,7 @@ Check out this excellent introductory YoutTube video:
 
 [Goto Top](#quantum-computing)
 
-## Implementation of few Quantum Algorithms
+## Implementation of few Quantum algorithms
 Before we start off examining few Quantum Algorithms, a brief about the state of Quantum Computers.  As mentioned before, several Fortune 50 companies including IBM, Microsoft, Google are all working on creating Quantum Computers.  IBM has created a public cloud platform called [IBM Quantum Experience or IBM QX](https://en.wikipedia.org/wiki/IBM_Q_Experience).  As of July 2018, this has five Quantum Processors (with three of them available to public) as well as a Quantum Simulator:
 
 <p align="center">
@@ -47,6 +53,14 @@ Before we start off examining few Quantum Algorithms, a brief about the state of
 </p>
 
 Users interact with a quantum processor through the Quantum Circuit model of computation, applying Quantum Gate on the Qubits using a GUI called the Quantum Composer, writing Quantum Assembly Language (QASM) code or through a high level programming level like Python accessing IBM QX via API by using [QISKit](https://developer.ibm.com/code/open/projects/qiskit/).
+
+Similarly D-Wave Systems has opened up free access to its [D-Wave 2000Q quantum computer](https://www.dwavesys.com/d-wave-two-system).
+
+<p align="center">
+  <img src="images/dwave.gif" width="240" height="160"></img>
+</p>
+
+Called "[Leap](https://cloud.dwavesys.com/leap/)", the cloud based Quantum Application Environment provides access to a live quantum computer along with a SDK called "[Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk)" for implementing algorithms with Python.
 
 ### Grover's Algorithm
 We are now in a good place to discuss our first Quantum algorithm.
