@@ -2,6 +2,8 @@
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 1. [What is Quantum Computing?](#what-is-quantum-computing)
+   * [Problem set classification](#problem-set-classification)
+   * [Basic Maths](#basic-maths)
 2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
    * [Grover's Algorithm](#grovers-algorithm)
      * [Implementation](#implementation)
@@ -42,6 +44,26 @@ Check out this excellent introductory YoutTube video:
     <img src="images/YouTube.jpg" width="320" height="200"></img>
   </a>
 </p>
+
+### Problem set classification
+
+Quantum Computers are not intended to replace classical computers, they are expected to be a different tool we will use to solve complex problems that are beyond the capabilities of a classical computer:
+
+<p align="center">
+  <img src="images/P-NP%20problem%20set.png" height="200" width="400"></img>
+</p>
+
+### Basic Maths
+
+If you are interested in the basic maths behind quantum computing, check it out here:
+
+<p align="center">
+  <a href=https://www.slideshare.net/secret/Fxp6COhuhGAKF>
+    <img src="images/Basic%20Maths.png" height="200" width="300"></img>
+  </a>
+</p>
+
+
 
 [Goto Top](#quantum-computing)
 
