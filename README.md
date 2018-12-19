@@ -23,12 +23,6 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 
 We have all heard the buzz around Quantum Computers.  Today’s smartphones have the computing power of a military computer from 50 years ago that was the size of an entire room. However, even with the phenomenal strides we have made in technology and classical computers since the onset of the computer revolution, there remain problems that classical computers just can’t solve.  Even though a classical computer helps us do many amazing things, “under the hood” it’s really just a calculator that uses a sequence of bits—values of 0 and 1 to represent two states (think on and off switch) to makes sense of and decisions about the data we input following a prearranged set of instructions. 
 
-Quantum Computers are not intended to replace classical computers, they are expected to be a different tool we will use to solve complex problems that are beyond the capabilities of a classical computer:
-
-<p align="center">
-  <img src="images/P-NP%20problem%20set.png" height="200" width="400"></img>
-</p>
-
 When you enter the world of atomic and subatomic particles, things begin to behave in unexpected ways. In fact, these particles can exist in more than one state at a time. It’s this ability that Quantum Computers take advantage of.  Instead of bits, which conventional computers use, a Quantum Computer uses Quantum bits—known as Qubits. To illustrate the difference, imagine a sphere. A bit can be at either of the two poles of the sphere, but a Qubit can exist at any point on the sphere (called "Superposition"). So, this means that a computer using Qubits can store an enormous amount of information and uses less energy doing so than a classical computer. Another interesting aspect is called "Quantum Entanglement".  It is a physical phenomenon which occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the other(s), even when the particles are separated by a large distance—instead, a quantum state must be described for the system as a whole.  Measurements of physical properties such as position, momentum, spin, and polarization, performed on entangled particles are found to be correlated. 
 
 <p align="center">
