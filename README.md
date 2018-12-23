@@ -15,7 +15,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   </tr>
   <tr>
     <td><a href="#basic-maths">&nbsp;&nbsp;&nbsp;➤ Basic Maths</a></td>
-    <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation</a></td>
+    <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation</a></td>
   </tr>
   <tr>
     <td>Island Trading</td>
