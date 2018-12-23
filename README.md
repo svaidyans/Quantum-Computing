@@ -5,10 +5,12 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 <table>
   
   <tr>
-    <td style="border: 2px; color: red";>
+    <tr>
       <a href="#what-is-quantum-computing">What is Quantum Computing?</a>
+    </tr>
+    <tr>
       <a href="#problem-set-classification">↳ Problem set classification</a>
-    </td>
+    </tr>
   </tr>
 
 </table>
