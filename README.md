@@ -1,6 +1,12 @@
 
 (setq markdown-css-paths '("css/styles.css"))
 
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>")
+
 # Quantum-Computing
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
