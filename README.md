@@ -9,6 +9,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   <tr>
     <th><a href="#what-is-quantum-computing">What is Quantum Computing?</a></th>
     <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></th>
+  <th><a href="#Use-Cases---the-Genesis">Use Cases - the Genesis</a></th>
     <th><a href="#video">Video</a></th>
     <th><a href="#feedback">Feedback</a></th>
   </tr>
@@ -18,11 +19,13 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
     <td> </td>
     <td> </td>
+    <td> </td>
   </tr>
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#basic-maths">Basic Maths</a></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
+    <td> </td>
     <td> </td>
     <td> </td>
   </tr>
@@ -32,11 +35,13 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">&nbsp;&nbsp;&nbsp;➤ Shor's Algorithm</a></td></td>
     <td> </td>
     <td> </td>
+    <td> </td>
   </tr>
   
   <tr>
     <td> </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation - specific factorization</a></td>
+    <td> </td>
     <td> </td>
     <td> </td>
   </tr>
@@ -46,6 +51,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation - generalized</a></td>
     <td> </td>
     <td> </td>
+    <td> </td>
   </tr>
   
   <tr>
@@ -53,11 +59,13 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#molecule-simulation">Molecule Simulation</a></td></td>
     <td> </td>
     <td> </td>
+    <td> </td>
   </tr>
   
   <tr>
     <td> </td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
+    <td> </td>
     <td> </td>
     <td> </td>
   </tr>
