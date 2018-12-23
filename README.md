@@ -28,6 +28,21 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td><a href="#implementation---specific-factorization">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation - specific factorization</a></td>
     <td> </td>
   </tr>
+  <tr>
+    <td> </td>
+    <td><a href="#implementation---generalized">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation - generalized</a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td><a href="#molecule-simulation">&nbsp;&nbsp;&nbsp;➤ Molecule Simulation</a></td></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td><a href="#other-algorithms">&nbsp;&nbsp;&nbsp;➤ Other Algorithms</a></td></td>
+    <td> </td>
+  </tr>
 </table>
 
 1. [What is Quantum Computing?](#what-is-quantum-computing)
