@@ -11,10 +11,11 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   <tr>
     <td><a href ="#problem-set-classification">&nbsp;&nbsp;&nbsp;➤ Problem set classification</a></td>
     <td><a href="#grovers-algorithm">&nbsp;&nbsp;&nbsp;➤ Grover's Algorithm</a></td>
+    <td> </td>
   </tr>
   <tr>
     <td><a href="#basic-maths">&nbsp;&nbsp;&nbsp;➤ Basic Maths</a></td>
-    <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▹ Implementation</a></td>
+    <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▷ Implementation</a></td>
   </tr>
   <tr>
     <td>Island Trading</td>
