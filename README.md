@@ -869,13 +869,13 @@ With Micorosoft's Quantum Development Kit ([QDK](https://www.microsoft.com/en-us
 
 The GitHub repository for Hydrogen and Lithium Hydrid simulations are availabe respectively [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Samples/src/H2SimulationGUI), and [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Chemistry/LithiumHydrideGUI).
 
-[<img src="images/top.png" height="24" width="24"></img>](#intro)
-
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
 <p align="center">
   <img src="images/Cartoon.jpg" width="300" height="100"></img>
 </p>
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ## Video
 <p align="center">
