@@ -1,5 +1,5 @@
 
-<link href="css/styles.css" rel="stylesheet"></link>
+(setq markdown-css-paths '("css/styles.css"))
 
 # Quantum-Computing
 
