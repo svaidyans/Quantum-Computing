@@ -4,9 +4,9 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 
 <table>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><a href ="#what-is-quantum-computing">What is Quantum Computing?</a></td>
+    <td><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></td>
+    <td><a href="#feedback">Feedback</a></td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
@@ -37,7 +37,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 
 1. [What is Quantum Computing?](#what-is-quantum-computing)
    * [Problem set classification](#problem-set-classification)
-   * [Basic Maths](#basic-maths)|
+   * [Basic Maths](#basic-maths)
 2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
    * [Grover's Algorithm](#grovers-algorithm)
      * [Implementation](#implementation)
