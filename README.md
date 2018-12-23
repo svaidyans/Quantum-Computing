@@ -120,6 +120,8 @@ If you are interested in the basic maths behind quantum computing, check it out 
 
 <img src="images/Usecases genesis.png"></img>
 
+[Goto Top](#quantum-computing)
+
 ## Implementation of few Quantum algorithms
 Before we start off examining few Quantum Algorithms, a brief about the state of Quantum Computers.  As mentioned before, several Fortune 50 companies including IBM, Microsoft, Google are all working on creating Quantum Computers.  IBM has created a public cloud platform called [IBM Quantum Experience or IBM QX](https://en.wikipedia.org/wiki/IBM_Q_Experience).  As of July 2018, this has five Quantum Processors (with three of them available to public) as well as a Quantum Simulator:
 
