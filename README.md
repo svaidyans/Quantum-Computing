@@ -868,7 +868,7 @@ The GitHub repository for Hydrogen and Lithium Hydrid simulations are availabe r
 ## Video
 <p align="center">
   <a href="https://youtu.be/c47eI3ZcE2Q">
-    <img src="images/video.jpg" width="640" height="320"></img>
+    <img src="images/Video.jpg" width="640" height="320"></img>
   </a>
 </p>
 
