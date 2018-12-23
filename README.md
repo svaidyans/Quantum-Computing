@@ -1,4 +1,6 @@
-<link href="css/styles.css" rel="stylesheet"></link>
+<head>
+  <link href="css/styles.css" rel="stylesheet"></link>
+</head>
 
 # Quantum-Computing
 
