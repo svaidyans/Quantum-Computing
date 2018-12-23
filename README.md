@@ -1,3 +1,5 @@
+<link href="css/styles.css" rel="stylesheet"></link>
+
 # Quantum-Computing
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
