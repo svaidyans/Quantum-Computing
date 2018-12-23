@@ -12,7 +12,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   </tr>
   
   <tr>
-    <td><a href="#problem-set-classification">➤ Problem set classification</a></td>
+    <td><a href="#problem-set-classification">&nbsp;&nbsp;&nbsp;➤ Problem set classification</a></td>
     <td><a href="#grovers-algorithm">&nbsp;&nbsp;&nbsp;➤ Grover's Algorithm</a></td>
     <td> </td>
     <td> </td>
@@ -61,20 +61,6 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   </tr>
   
 </table>
-
-[Comment]: 1. [What is Quantum Computing?](#what-is-quantum-computing)
-   * [Problem set classification](#problem-set-classification)
-   * [Basic Maths](#basic-maths)
-2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
-   * [Grover's Algorithm](#grovers-algorithm)
-     * [Implementation](#implementation)
-   * [Shor's Alogrithm](#shors-algorithm)
-     * [Implementation - specific factorization](#implementation---specific-factorization)
-     * [Implementation - generalized](#implementation---generalized)
-   * [Molecule Simulation](#molecule-simulation)
-   * [Video](#video)
-   * [Other Algorithms](#other-algorithms)
-3. [Feedback](#feedback)
 
 ## What is Quantum Computing?
 
