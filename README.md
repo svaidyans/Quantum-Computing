@@ -1,6 +1,6 @@
 <img src="images/QC Page Header.png"></img>
 
-# Intro
+## Intro
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 
