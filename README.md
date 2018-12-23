@@ -114,7 +114,7 @@ If you are interested in the basic maths behind quantum computing, check it out 
   </a>
 </p>
 
-[Goto Top](#quantum-computing)
+[images/top.png](#about-quantum-computing)
 
 ## Use Cases
 
