@@ -3,47 +3,63 @@
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 
 <table>
+  
   <tr>
     <td><a href ="#what-is-quantum-computing">What is Quantum Computing?</a></td>
     <td><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></td>
     <td><a href="#video">Video</a></td>
     <td><a href="#feedback">Feedback</a></td>
   </tr>
+  
   <tr>
     <td><a href ="#problem-set-classification">&nbsp;&nbsp;&nbsp;➤ Problem set classification</a></td>
     <td><a href="#grovers-algorithm">&nbsp;&nbsp;&nbsp;➤ Grover's Algorithm</a></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td><a href="#basic-maths">&nbsp;&nbsp;&nbsp;➤ Basic Maths</a></td>
     <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation</a></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td> </td>
     <td><a href="#shors-algorithm">&nbsp;&nbsp;&nbsp;➤ Shor's Algorithm</a></td></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td> </td>
     <td><a href="#implementation---specific-factorization">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation - specific factorization</a></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td> </td>
     <td><a href="#implementation---generalized">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation - generalized</a></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td> </td>
     <td><a href="#molecule-simulation">&nbsp;&nbsp;&nbsp;➤ Molecule Simulation</a></td></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
   <tr>
     <td> </td>
     <td><a href="#other-algorithms">&nbsp;&nbsp;&nbsp;➤ Other Algorithms</a></td></td>
     <td> </td>
+    <td> </td>
   </tr>
+  
 </table>
 
 1. [What is Quantum Computing?](#what-is-quantum-computing)
