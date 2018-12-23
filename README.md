@@ -16,21 +16,22 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#problem-set-classification">Problem set classification</a></td>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
     <td> </td>
+    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
     <td> </td>
     <td> </td>
   </tr>
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#basic-maths">Basic Maths</a></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
     <td> </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
     <td> </td>
     <td> </td>
   </tr>
   
   <tr>
+    <td> </td>
     <td> </td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">&nbsp;&nbsp;&nbsp;➤ Shor's Algorithm</a></td></td>
     <td> </td>
@@ -40,32 +41,32 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
   <tr>
     <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation - specific factorization</a></td>
     <td> </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation - specific factorization</a></td>
     <td> </td>
     <td> </td>
   </tr>
   
   <tr>
+    <td> </td>
     <td> </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation - generalized</a></td>
     <td> </td>
     <td> </td>
-    <td> </td>
   </tr>
   
   <tr>
     <td> </td>
+    <td> </td>  
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#molecule-simulation">Molecule Simulation</a></td></td>
     <td> </td>
     <td> </td>
-    <td> </td>
   </tr>
   
   <tr>
     <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
     <td> </td>
+    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
     <td> </td>
     <td> </td>
   </tr>
@@ -118,7 +119,7 @@ If you are interested in the basic maths behind quantum computing, check it out 
 
 ## Use Cases
 
-<img src="images/Usecases genesis.jpg"></img>
+<img src="images/Usecases genesis.png"></img>
 
 ## Implementation of few Quantum algorithms
 Before we start off examining few Quantum Algorithms, a brief about the state of Quantum Computers.  As mentioned before, several Fortune 50 companies including IBM, Microsoft, Google are all working on creating Quantum Computers.  IBM has created a public cloud platform called [IBM Quantum Experience or IBM QX](https://en.wikipedia.org/wiki/IBM_Q_Experience).  As of July 2018, this has five Quantum Processors (with three of them available to public) as well as a Quantum Simulator:
