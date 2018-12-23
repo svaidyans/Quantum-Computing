@@ -2,10 +2,17 @@
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 
-| | | |
-| --- | --- | --- |
-| abc | def | ghi |
-| jkl | mno | pqrst |
+<table>
+  
+  <tr>
+
+    <td>
+      1. [What is Quantum Computing?](#what-is-quantum-computing)
+    </td>
+    
+  </tr>
+
+</table>
 
 |1. [What is Quantum Computing?](#what-is-quantum-computing)|
 |   * [Problem set classification](#problem-set-classification)|
