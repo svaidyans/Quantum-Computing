@@ -11,6 +11,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   <tr>
     <td><a href ="#problem-set-classification">➤ Problem set classification</a></td>
     <td><a href="#grovers-algorithm>➤ Grover's Algorithm</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Ernst Handel</td>
