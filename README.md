@@ -1,4 +1,4 @@
-[Header]("images/QC%20Page%20Header.png")
+![]("images/QC%20Page%20Header.png")
 
 # Intro
 
