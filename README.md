@@ -6,7 +6,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
   <tr>
     <td>
-      1. [What is Quantum Computing?](#what-is-quantum-computing)
+      <a href="#what-is-quantum-computing">What is Quantum Computing?</a>
     </td>
   </tr>
 
