@@ -1,10 +1,12 @@
 # Quantum-Computing
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
-1. [What is Quantum Computing?](#what-is-quantum-computing)
-   * [Problem set classification](#problem-set-classification)
-   * [Basic Maths](#basic-maths)
-2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
+
+|---|---|---|
+|1. [What is Quantum Computing?](#what-is-quantum-computing)|
+|   * [Problem set classification](#problem-set-classification)|
+|   * [Basic Maths](#basic-maths)|
+|2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)|
    * [Grover's Algorithm](#grovers-algorithm)
      * [Implementation](#implementation)
    * [Shor's Alogrithm](#shors-algorithm)
