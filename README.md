@@ -16,21 +16,17 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   <tr>
     <td><a href="#basic-maths">&nbsp;&nbsp;&nbsp;➤ Basic Maths</a></td>
     <td><a href="#implementation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation</a></td>
+    <td> </td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td> </td>
+    <td><a href="#shros-algorithm">&nbsp;&nbsp;&nbsp;➤ Shor's Algorithm</a></td></td>
+    <td> </td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td> </td>
+    <td><a href="#implementation---specific-factorization">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ Implementation - specific factorization</a></td>
+    <td> </td>
   </tr>
 </table>
 
