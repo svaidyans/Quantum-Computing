@@ -9,9 +9,8 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td><a href="#feedback">Feedback</a></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><a href ="#problem-set-classification">➤ Problem set classification</a></td>
+    <td><a href="#grovers-algorithm>➤ Grover's Algorithm</a></td>
   </tr>
   <tr>
     <td>Ernst Handel</td>
