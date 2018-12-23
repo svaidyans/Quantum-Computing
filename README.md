@@ -2,6 +2,10 @@
 
 Quantum Computing is the next holy grail of Computer Science and Engineering.  Here we look at its background and implementation of few Quantum Algorithms.
 
+<head>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
 <table>
   <tr>
     <th>Company</th>
