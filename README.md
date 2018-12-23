@@ -7,7 +7,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 <table>
   
   <tr>
-    <td><a href="#what-is-quantum-computing">What is Quantum Computing?</a></td>
+    <td><a href="#about-quantum-computing">About Quantum Computing</a></td>
     <td><a href="#Use-Cases">Use Cases</a></td>
     <td><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></td>
     <td><a href="#video">Video</a></td>
@@ -34,7 +34,6 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td> </td>
     <td> </td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">Shor's Algorithm</a></td></td>
-    <td> </td>
     <td> </td>
     <td> </td>
   </tr>
@@ -73,7 +72,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
 </table>
 
-## What is Quantum Computing?
+## About Quantum Computing
 
 <p align="center">
   <img src="images/QC.jpg" height="100" width="200"></img>
