@@ -62,7 +62,7 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
 </table>
 
-[Comment:] 1. [What is Quantum Computing?](#what-is-quantum-computing)
+[Comment]: 1. [What is Quantum Computing?](#what-is-quantum-computing)
    * [Problem set classification](#problem-set-classification)
    * [Basic Maths](#basic-maths)
 2. [Implementation of few Quantum algorithms](#implementation-of-few-quantum-algorithms)
