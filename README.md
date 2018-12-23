@@ -8,8 +8,8 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
   <tr>
     <th><a href="#what-is-quantum-computing">What is Quantum Computing?</a></th>
+    <th><a href="#Use-Cases">Use Cases</a></th>
     <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></th>
-  <th><a href="#Use-Cases---the-Genesis">Use Cases - the Genesis</a></th>
     <th><a href="#video">Video</a></th>
     <th><a href="#feedback">Feedback</a></th>
   </tr>
@@ -114,9 +114,11 @@ If you are interested in the basic maths behind quantum computing, check it out 
   </a>
 </p>
 
-
-
 [Goto Top](#quantum-computing)
+
+## Use Cases
+
+<img src="images/Usecases genesis.jpg"></img>
 
 ## Implementation of few Quantum algorithms
 Before we start off examining few Quantum Algorithms, a brief about the state of Quantum Computers.  As mentioned before, several Fortune 50 companies including IBM, Microsoft, Google are all working on creating Quantum Computers.  IBM has created a public cloud platform called [IBM Quantum Experience or IBM QX](https://en.wikipedia.org/wiki/IBM_Q_Experience).  As of July 2018, this has five Quantum Processors (with three of them available to public) as well as a Quantum Simulator:
