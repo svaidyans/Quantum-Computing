@@ -118,7 +118,7 @@ If you are interested in the basic maths behind quantum computing, check it out 
 
 ## Use Cases
 
-<img src="images/Usecases genesis.png"></img>
+<img src="images/qc-blog-image.png"></img>
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
