@@ -7,67 +7,75 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
 <table>
   
   <tr>
-    <th><a href="#about-quantum-computing">About Quantum Computing</a></th>
-    <th><a href="#Use-Cases">Use Cases</a></th>
-    <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few Quantum algorithms</a></th>
+    <th><a href="#about-quantum-computing">About QC</a></th>
+    <th><a href="#use-cases">Use Cases</a></th>
+    <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few algorithms</a></th>
     <th><a href="#video">Video</a></th>
-    <th><a href="#feedback">Feedback</a></th>
+    <th><a href="#blog">Blog</a></th>
+    <th><a href="#contact">Contact</a></th>
   </tr>
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#problem-set-classification">Problem set classification</a></td>
-    <td> </td>
+    <td></td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#basic-maths">Basic Maths</a></td>
-    <td> </td>
+    <td></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">Shor's Algorithm</a></td></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation - specific factorization</a></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation (specific)</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
-    <td> </td>
-    <td> </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation - generalized</a></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation (generalized)</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
-    <td> </td>
-    <td> </td>  
+    <td></td>
+    <td></td>  
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#molecule-simulation">Molecule Simulation</a></td></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   
 </table>
@@ -886,5 +894,12 @@ The GitHub repository for Hydrogen and Lithium Hydrid simulations are availabe r
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
-## Feedback
-Please share any feedback to [Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
+## Blog
+A blog on enumerating the efforts so far is available [here](https://blogs.dxc.technology/2019/02/21/quantum-computing-will-change-everyday-life-for-the-better/).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
+## Contact
+Please get in touch with me @[Vaidyanathan Sivasubramanian](mailto:svaidyan_signup@hotmail.com).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
