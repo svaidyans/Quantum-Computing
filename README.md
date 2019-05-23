@@ -71,6 +71,13 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
   
   <tr>
     <td></td>
+    <td></td>  
+    <td>&nbsp;&nbsp;&nbsp;➤ <a href="#finance-simulation">Finance Simulation</a></td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
     <td></td>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
     <td></td>
@@ -876,6 +883,23 @@ Molecular simulation has enormous potential in chemistry with benefits ranging f
 With Micorosoft's Quantum Development Kit ([QDK](https://www.microsoft.com/en-us/quantum/development-kit)) and a combination of Q# and C#, the energy levels at different bond lengths of a Hydrogen and Lithium Hydride molecule are simulated.  Estimates of the ground state energy which are a function of bond distance are computed using the quantum phase estimation algorithm, using Hamiltonian simulation by a Trotter-Suzuki integrator.  
 
 The GitHub repository for Hydrogen and Lithium Hydrid simulations are availabe respectively [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Samples/src/H2SimulationGUI), and [here](https://github.com/Microsoft/Quantum/tree/release/v0.3.1810/Chemistry/LithiumHydrideGUI).
+
+### Finance Simulation
+The Monte Carlo method is a technique used to estimate a system’s properties stochastically, by statistically sampling realizations of the system. It is ubiquitous in science, with applications in physics, chemistry, engineering, and finance. Where it really shines is in dealing with extremely large or complex systems, which cannot be approached analytically or handled through other methods. In finance, the stochastic approach is typically used to simulate the effect of uncertainties affecting the financial object in question, which could be a stock, a portfolio, or an option. This makes Monte Carlo methods applicable to portfolio evaluation, personal finance planning, risk evaluation, and derivatives pricing.
+
+The problem with Monte Carlo methods is that, if we want to obtain the most probable outcome of a wide distribution or obtain a result with a very small associated error, the required number of simulations can become gigantic. This is the case for stock market simulations, for instance, which are routinely day-long simulations. In this situation, obtaining a quantum speedup could make a notable difference.
+
+An important ingredient toward a quantum accelerated Monte Carlo was recently suggested: Quantum Amplitude Estimation (QAE) algorithm. QAE can sample a probabilistic distribution quadratically faster than the next best classical method, allowing it to estimate expectation values extremely efficiently.
+
+With IBM's QISKIT Finance option pricing framework, let us look at an Asian Barrier Spread option example.  An Asian barrier spread is a combination of 3 different option types:
+
+* [Asian option](https://www.investopedia.com/terms/a/asianoption.asp): The payoff depends on the average price over the considered time horizon.
+* [Barrier option](https://www.investopedia.com/terms/b/barrieroption.asp): The payoff is zero if a certain threshold is exceeded at any time within the considered time horizon.
+* [(Bull) Spread](https://www.investopedia.com/terms/b/bullspread.asp): The payoff follows a piecewise linear function (depending on the average price) starting at zero, increasing linear, staying constant.
+
+The Jupyter Notebook of an implementation is [here](assets/abs.ipynb).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
 
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
