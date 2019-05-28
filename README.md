@@ -897,7 +897,9 @@ With IBM's QISKIT Finance option pricing framework, let us look at an Asian Barr
 * [Barrier option](https://www.investopedia.com/terms/b/barrieroption.asp): The payoff is zero if a certain threshold is exceeded at any time within the considered time horizon.
 * [(Bull) Spread](https://www.investopedia.com/terms/b/bullspread.asp): The payoff follows a piecewise linear function (depending on the average price) starting at zero, increasing linear, staying constant.
 
-The Jupyter Notebook of an implementation is [here](python/abs.ipynb).
+The Jupyter Notebook of an implementation is [here](python/Asian_Barrier_Spreads.ipynb).
+
+A simpler European Call option pricing example is [here](python/European_Call.ipynb).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
