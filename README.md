@@ -910,6 +910,16 @@ A simpler European Call option pricing example is [here](python/European_Call.ip
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
+#### Bernoulli distribution based Probability Mass Function
+
+While classical computers use only pseudo-random routines, quantum computers can generate true random variates. For example, the measurement of a quantum superposition is intrinsically random, as suggested by Born's rule. Consequently, some of the best random-number generators are based on such quantum-mechanical effects. Further, with a logarithmic amount of random bits, quantum computers can produce linearly many more bits, which is known as randomness expansion protocols.
+
+In practical applications, one wishes to use random variates of well-known distributions, rather than random bits. I have been able to implement a Probability Mass Function with Bernoulli distribution, by extending the work done by [IBM](https://github.com/Qiskit/qiskit-tutorials/blob/bea399999cda8712caa207a7172854467f9011ad/qiskit/aqua/generating_random_variates.ipynb).
+
+The Jupyter Notebook is available [here](assets/Bernoulli_Random_Number.ipynb).
+
+[<img src="images/top.png" height="24" width="24"></img>](#intro)
+
 ### Other Algorithms
 ...are Work-In-Progress.  That is to say:
 <p align="center">
