@@ -20,14 +20,12 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#grovers-algorithm">Grover's Algorithm</a></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   
   <tr>
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#basic-maths">Basic Maths</a></td>
     <td></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation">Implementation</a></td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -38,14 +36,12 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#shors-algorithm">Shor's Algorithm</a></td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   
   <tr>
     <td></td>
     <td></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---specific-factorization">Implementation (specific)</a></td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -56,14 +52,12 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#implementation---generalized">Implementation (generalized)</a></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   
   <tr>
     <td></td>
     <td></td>  
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#molecule-simulation">Molecule Simulation</a></td></td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
