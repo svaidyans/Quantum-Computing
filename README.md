@@ -67,12 +67,14 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td></td>  
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#finance-simulation">Finance Simulation</a></td></td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td></td>
     <td></td>  
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ <a href="#bernoulli-distribution-based-probability-mass-function">Probability Mass Function</a></td>
+    <td></td>
     <td></td>
   </tr>
   
