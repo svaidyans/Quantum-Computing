@@ -11,7 +11,6 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <th><a href="#use-cases">Use Cases</a></th>
     <th><a href="#implementation-of-few-quantum-algorithms">Implementation of few algorithms</a></th>
     <th><a href="#video">Video</a></th>
-    <th><a href="#blog">Blog</a></th>
     <th><a href="#contact">Contact</a></th>
   </tr>
   
@@ -934,11 +933,6 @@ The Jupyter Notebook is available [here](assets/Bernoulli_Random_Number.ipynb).
     <img src="images/Video.jpg" width="640" height="320"></img>
   </a>
 </p>
-
-[<img src="images/top.png" height="24" width="24"></img>](#intro)
-
-## Blog
-A blog on enumerating the efforts so far is available [here](https://blogs.dxc.technology/2019/02/21/quantum-computing-will-change-everyday-life-for-the-better/).
 
 [<img src="images/top.png" height="24" width="24"></img>](#intro)
 
