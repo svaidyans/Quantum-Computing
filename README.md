@@ -82,7 +82,6 @@ Quantum Computing is the next holy grail of Computer Science and Engineering.  H
     <td>&nbsp;&nbsp;&nbsp;➤ <a href="#other-algorithms">Other Algorithms</a></td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   
 </table>
